@@ -1,0 +1,12 @@
+2024-04-13 21:05:39.084523-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]DELE FROM WALLETS"; expected "DELETE, DROP"; SQL statement:
+DELE FROM WALLETS [42001-224]
+2024-04-13 21:06:08.726960-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]DELE FROM WALLETS"; expected "DELETE, DROP"; SQL statement:
+DELE FROM WALLETS [42001-224]
+2024-04-13 21:06:38.643611-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]DELE FROM WALLETS"; expected "DELETE, DROP"; SQL statement:
+DELE FROM WALLETS [42001-224]
+2024-04-13 21:11:36.360372-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]DELE FROM WALLETS"; expected "DELETE, DROP"; SQL statement:
+DELE FROM WALLETS [42001-224]
